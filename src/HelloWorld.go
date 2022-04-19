@@ -1,3 +1,5 @@
+#! /usr/bin/env go run
+
 package main
 
 import "fmt"
